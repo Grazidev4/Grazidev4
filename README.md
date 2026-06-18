@@ -1,16 +1,15 @@
-## Hi there 👋
+## 👋 Sobre mim
 
-<!--
-**Grazidev4/Grazidev4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Olá! Me chamo Grazielle e estou em transição de carreira para a área de tecnologia.
 
-Here are some ideas to get you started:
+Atualmente estou estudando Python, lógica de programação e Git e GitHub, construindo uma base sólida para minha evolução como desenvolvedora.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tenho como foco aprender de forma prática, desenvolvendo pequenos projetos e aprimorando minha capacidade de resolver problemas com código.
+
+📚 Em desenvolvimento:
+- Python
+- Lógica de programação
+- Git e GitHub
+
+💗 Objetivo:
+Construir uma carreira na área de tecnologia, evoluindo de forma consistente através da prática e do desenvolvimento de projetos.
