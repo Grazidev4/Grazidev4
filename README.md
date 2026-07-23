@@ -1,15 +1,32 @@
-## 👋🏻 Sobre mim
+<h2 align="center">👋🏻 Hello, World!</h2>
 
-Olá! Me chamo Grazielle e estou em transição de carreira para a área de tecnologia.
+<p align="center">
+  Prazer, sou a <b>Grazielle</b>!<br>
+  🎓 Estudante de Análise e Desenvolvimento de Sistemas<br>
+  💻 Atualmente estudando <b>Python</b>, <b>HTML</b>, <b>CSS</b>, <b>Git</b> e <b>GitHub</b>.<br>
+  🎀 Criando projetos para praticar e evoluir na programação.<br>
+  🎮 Sempre aprendendo e buscando novos desafios.
+</p>
 
-Atualmente estou estudando Python, lógica de programação e Git e GitHub, construindo uma base sólida para minha evolução como desenvolvedora.
+<br>
 
-🧠 Tenho como foco aprender de forma prática, desenvolvendo pequenos projetos e aprimorando minha capacidade de resolver problemas com código.
+<!-- Cards de Estatísticas -->
+<div align="center">
+  <a href="https://github.com/Grazidev4">
+    <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Grazidev4&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+    <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Grazidev4&layout=compact&langs_count=16&theme=tokyonight" />
+  </a>
+</div>
 
-📚 Em desenvolvimento:
-- Python
-- Lógica de programação
-- Git e GitHub
+<br>
 
-🩷 Objetivo:
-Construir uma carreira na área de tecnologia, evoluindo de forma consistente através da prática e do desenvolvimento de projetos.
+<!-- Ícones das Linguagens -->
+<div align="center">
+  <img align="center" alt="Grazi-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  &nbsp;&nbsp;
+  <img align="center" alt="Grazi-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  &nbsp;&nbsp;
+  <img align="center" alt="Grazi-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  &nbsp;&nbsp;
+  <img align="center" alt="Grazi-Git" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+</div>
