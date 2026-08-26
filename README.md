@@ -12,10 +12,8 @@
 
 <!-- Cards de Estatísticas -->
 <div align="center">
-  <a href="https://github.com/Grazidev4">
-    <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Grazidev4&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-    <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Grazidev4&layout=compact&langs_count=16&theme=tokyonight" />
-  </a>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Grazidev4&show_icons=true&theme=tokyonight" />
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=Grazidev4&theme=tokyonight" />
 </div>
 
 <br>
