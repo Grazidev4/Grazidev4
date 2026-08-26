@@ -12,9 +12,10 @@
 
 <!-- Cards de Estatísticas -->
 <div align="center">
-  <img height="180" src="https://github-readme-stats-fast.vercel.app/api?username=Grazidev4&show_icons=true&theme=dracula" />
-  <img height="180" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Grazidev4&layout=compact&theme=dracula" />
+  <img height="180" src="https://github-readme-stats-fast.vercel.app/api?username=Grazidev4&show_icons=true&bg_color=0d1117&title_color=ff69b4&text_color=ffffff&icon_color=ff69b4" />
+  <img height="180" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Grazidev4&layout=compact&bg_color=0d1117&title_color=ff69b4&text_color=ffffff" />
 </div>
+
 <br>
 
 <!-- Ícones das Linguagens -->
