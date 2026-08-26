@@ -4,6 +4,7 @@
   🎓 Estudante de Análise e Desenvolvimento de Sistemas <br>
   💻 Estudando Python, Git/GitHub, Web (HTML/CSS) e Nuvem (AWS pela Escola da Nuvem) <br>
   🎀 Criando projetos para praticar, consolidar fundamentos e evoluir na programação
+  🎮 Sempre aprendendo e buscando novos desafios
 </p>
 
 <br>
