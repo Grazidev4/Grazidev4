@@ -13,7 +13,7 @@
 <!-- Cards de Estatísticas -->
 <div align="center">
   <img height="180" src="https://github-readme-stats-fast.vercel.app/api?username=Grazidev4&show_icons=true&theme=tokyonight" />
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=Grazidev4&theme=tokyonight" />
+  <img height="180" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Grazidev4&layout=compact&theme=tokyonight" />
 </div>
 
 <br>
