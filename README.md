@@ -1,11 +1,9 @@
 <h2 align="center">👋🏻 Hello, World!</h2>
 
 <p align="center">
-  Prazer, sou a <b>Grazielle</b>!<br>
-  🎓 Estudante de Análise e Desenvolvimento de Sistemas<br>
-  💻 Atualmente estudando <b>Python</b>, <b>HTML</b>, <b>CSS</b>, <b>Git</b> e <b>GitHub</b>.<br>
-  🎀 Criando projetos para praticar e evoluir na programação.<br>
-  🎮 Sempre aprendendo e buscando novos desafios.
+ 🎓 Estudante de Análise e Desenvolvimento de Sistemas
+ 💻 Estudando Python, Git/GitHub, Web (HTML/CSS) e Nuvem (AWS pela Escola da Nuvem)
+ 🎀 Criando projetos para praticar, consolidar fundamentos e evoluir na programação
 </p>
 
 <br>
