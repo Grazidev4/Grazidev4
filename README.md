@@ -1,9 +1,9 @@
 <h2 align="center">👋🏻 Hello, World!</h2>
 
 <p align="center">
-🎓 Estudante de Análise e Desenvolvimento de Sistemas  
-💻 Estudando Python, Git/GitHub, Web (HTML/CSS) e Nuvem (AWS pela Escola da Nuvem)  
-🎀 Criando projetos para praticar, consolidar fundamentos e evoluir na programação
+  🎓 Estudante de Análise e Desenvolvimento de Sistemas <br>
+  💻 Estudando Python, Git/GitHub, Web (HTML/CSS) e Nuvem (AWS pela Escola da Nuvem) <br>
+  🎀 Criando projetos para praticar, consolidar fundamentos e evoluir na programação
 </p>
 
 <br>
@@ -17,12 +17,9 @@
 <br>
 
 <!-- Ícones das Linguagens -->
-<div align="center">
-  <img align="center" alt="Grazi-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  &nbsp;&nbsp;
-  <img align="center" alt="Grazi-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  &nbsp;&nbsp;
-  <img align="center" alt="Grazi-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  &nbsp;&nbsp;
-  <img align="center" alt="Grazi-Git" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-</div>
+<p align="center">
+  <img alt="Python" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> &nbsp;
+  <img alt="HTML" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> &nbsp;
+  <img alt="CSS" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> &nbsp;
+  <img alt="Git" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+</p>
