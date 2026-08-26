@@ -1,9 +1,9 @@
 <h2 align="center">👋🏻 Hello, World!</h2>
 
 <p align="center">
- 🎓 Estudante de Análise e Desenvolvimento de Sistemas
- 💻 Estudando Python, Git/GitHub, Web (HTML/CSS) e Nuvem (AWS pela Escola da Nuvem)
- 🎀 Criando projetos para praticar, consolidar fundamentos e evoluir na programação
+🎓 Estudante de Análise e Desenvolvimento de Sistemas  
+💻 Estudando Python, Git/GitHub, Web (HTML/CSS) e Nuvem (AWS pela Escola da Nuvem)  
+🎀 Criando projetos para praticar, consolidar fundamentos e evoluir na programação
 </p>
 
 <br>
