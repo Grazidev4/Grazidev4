@@ -1,7 +1,7 @@
 <div align="center">
 
-  <!-- GIF Animado Estético (Link direto e estável) -->
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="80px" alt="Wave" />
+  <!-- Imagem da Boneca (Fundo Transparente & Detalhes Rosas) -->
+  <img src="https://i.ibb.co/68032n8b/boneca-rosa.png" width="220px" alt="Grazielle Anime" />
 
   <h1>✨ Grazielle ✨</h1>
 
@@ -39,6 +39,10 @@
 ### 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Grazidev4&theme=pink&background=0d1117&ring=ff69b4&fire=ff69b4&currStreakNum=ffffff" width="48%" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Grazidev4&layout=compact&theme=rose_pine&hide=shell" width="48%" />
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=Grazidev4&show_icons=true&theme=rose_pine&include_all_commits=true&count_private=true&border_radius=10&bg_color=0d1117" height="150" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Grazidev4&layout=compact&theme=rose_pine&hide=shell&border_radius=10&bg_color=0d1117" height="150" />
+  </a>
 </p>
