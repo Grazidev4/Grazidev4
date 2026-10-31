@@ -1,7 +1,7 @@
 <div align="center">
 
-  <!-- Imagem da Boneca (Fundo Transparente & Detalhes Rosas) -->
-  <img src="https://i.ibb.co/68032n8b/boneca-rosa.png" width="220px" alt="Grazielle Anime" />
+  <!-- Imagem da Boneca Personalizada (Fundo Transparente & Detalhes Rosas) -->
+  <img src="https://pub-84ffb23b76174a7493a52c161eb3d526.r2.dev/boneca-grazi-rosa.png" width="220px" alt="Grazielle Anime" />
 
   <h1>✨ Grazielle ✨</h1>
 
@@ -39,10 +39,6 @@
 ### 📊 Estatísticas do GitHub
 
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=Grazidev4&show_icons=true&theme=rose_pine&include_all_commits=true&count_private=true&border_radius=10&bg_color=0d1117" height="150" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Grazidev4&layout=compact&theme=rose_pine&hide=shell&border_radius=10&bg_color=0d1117" height="150" />
-  </a>
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=Grazidev4&show_icons=true&theme=rose_pine&include_all_commits=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=Grazidev4&layout=compact&theme=rose_pine&hide=shell" width="48%" />
 </p>
