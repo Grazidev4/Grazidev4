@@ -14,10 +14,10 @@
 
 ### 🌸 Sobre mim
 
-- 📊 **Área de foco:** Análise de Dados & Desenvolvimento Backend
-- 💡 **Interesses:** Manipulação de dados, automações, estatísticas e soluções web
-- 🎯 **Objetivo:** Transformar dados em insights e criar projetos práticos
-- 🚀 Sempre aprendendo, praticando e evoluindo na programação!
+- 📊 **Área de foco:** Análise de Dados & Desenvolvimento Backend[cite: 3]
+- 💡 **Interesses:** Manipulação de dados, automações, estatísticas e soluções web[cite: 3]
+- 🎯 **Objetivo:** Transformar dados em insights e criar projetos práticos[cite: 3]
+- 🚀 Sempre aprendendo, praticando e evoluindo na programação![cite: 3]
 
 ---
 
@@ -37,6 +37,6 @@
 ### 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Grazidev4&show_icons=true&theme=rose_pine&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Grazidev4&layout=compact&theme=rose_pine&hide=shell" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Grazidev4&theme=pink&background=0d1117&ring=ff69b4&fire=ff69b4&currStreakNum=ffffff" width="48%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Grazidev4&layout=compact&theme=rose_pine&hide=shell" width="48%" />
 </p>
