@@ -1,6 +1,6 @@
 <div align="center">
 
-  <!-- Imagem com tamanho ajustado para ficar menor e delicada -->
+  <!-- Sua bonequinha sem fundo -->
   <img src="boneca.png" width="110px" alt="Grazielle Anime" />
 
   <h1>✨ Grazielle ✨</h1>
@@ -16,14 +16,14 @@
 
 ### 🌸 Sobre mim
 
-- 📊 **Área de foco:** Análise de Dados & Desenvolvimento Backend
-- 💡 **Interesses:** Manipulação de dados, automações, estatísticas e soluções web[cite: 26]
-- 🎯 **Objetivo:** Transformar dados em insights e criar projetos práticos[cite: 26]
-- 🚀 Sempre aprendendo, praticando e evoluindo na programação![cite: 26]
+- 📊 **Foco:** Análise de Dados & Desenvolvimento Backend
+- 💡 **Interesses:** Manipulação de dados, automações, estatísticas e soluções web
+- 🎯 **Objetivo:** Transformar dados em insights e criar projetos práticos
+- 🚀 Aprendendo e evoluindo a cada dia na programação!
 
 ---
 
-### 🛠️ Tecnologias & Ferramentas
+### 🛠️ Ferramentas & Tecnologias
 
 <div align="center">
   <img src="https://img.shields.io/badge/Python-ff1493?style=for-the-badge&logo=python&logoColor=white" />
@@ -31,12 +31,11 @@
   <img src="https://img.shields.io/badge/Git-ff1493?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-ff1493?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-ff1493?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-ff1493?style=for-the-badge&logo=linux&logoColor=white" />
 </div>
 
 ---
 
-### 📈 Distribuição de Linguagens no GitHub
+### 📊 No que estou focando
 
 <div align="center">
   <br />
