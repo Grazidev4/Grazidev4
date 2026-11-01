@@ -1,6 +1,6 @@
 <div align="center">
 
-  <!-- Sua bonequinha sem fundo -->
+  <!-- Bonequinha fundo -->
   <img src="boneca.png" width="110px" alt="Grazielle Anime" />
 
   <h1>✨ Grazielle ✨</h1>
@@ -16,10 +16,10 @@
 
 ### 🌸 Sobre mim
 
-- 📊 **Foco:** Análise de Dados & Desenvolvimento Backend
-- 💡 **Interesses:** Manipulação de dados, automações, estatísticas e soluções web
-- 🎯 **Objetivo:** Transformar dados em insights e criar projetos práticos
-- 🚀 Aprendendo e evoluindo a cada dia na programação!
+- 📊 **Foco:** Análise de Dados com Python & SQL
+- 💡 **Interesses:** Manipulação e tratamento de dados, automações, análise estatística e visualização de dados
+- 🎯 **Objetivo:** Transformar dados brutos em insights e soluções práticas
+- 🚀 Aprendendo e evoluindo continuamente em Python e análise de dados!
 
 ---
 
