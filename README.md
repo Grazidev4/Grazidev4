@@ -1,7 +1,7 @@
 <div align="center">
 
-  <!-- Nome exato da sua imagem subida no repositório -->
-  <img src="boneca.jpeg" width="140px" alt="Grazielle Anime" />
+  <!-- Imagem com tamanho ajustado para ficar menor e delicada -->
+  <img src="boneca.png" width="110px" alt="Grazielle Anime" />
 
   <h1>✨ Grazielle ✨</h1>
 
@@ -17,9 +17,9 @@
 ### 🌸 Sobre mim
 
 - 📊 **Área de foco:** Análise de Dados & Desenvolvimento Backend
-- 💡 **Interesses:** Manipulação de dados, automações, estatísticas e soluções web
-- 🎯 **Objetivo:** Transformar dados em insights e criar projetos práticos
-- 🚀 Sempre aprendendo, praticando e evoluindo na programação!
+- 💡 **Interesses:** Manipulação de dados, automações, estatísticas e soluções web[cite: 26]
+- 🎯 **Objetivo:** Transformar dados em insights e criar projetos práticos[cite: 26]
+- 🚀 Sempre aprendendo, praticando e evoluindo na programação![cite: 26]
 
 ---
 
