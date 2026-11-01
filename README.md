@@ -1,7 +1,7 @@
 <div align="center">
 
-  <!-- Imagem da bonequinha subida no repositório -->
-  <img src="boneca.png" width="140px" alt="Grazielle Anime" />
+  <!-- Nome exato da sua imagem subida no repositório -->
+  <img src="boneca.jpeg" width="140px" alt="Grazielle Anime" />
 
   <h1>✨ Grazielle ✨</h1>
 
